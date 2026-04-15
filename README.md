@@ -245,7 +245,7 @@ What does the company say about its market position?
 
 **Saumya Goyal**
 - GitHub: [@saumyg3](https://github.com/saumyg3)
-- LinkedIn: [linkedin.com/in/saumyagoyal](https://www.linkedin.com/in/saumya-goyal-8a8005327/)
+- LinkedIn: [https://www.linkedin.com/in/saumya-goyal-8a8005327/](https://www.linkedin.com/in/saumya-goyal-8a8005327/)
 - Email: saumyg3@uci.edu
 
 ---
