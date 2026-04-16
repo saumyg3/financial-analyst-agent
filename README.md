@@ -38,7 +38,7 @@ Try it with any public US company — AAPL, NVDA, MSFT, TSLA, and more.
 ┌─────────────────────────────────────────────────────────────────┐
 │                        INGESTION PIPELINE                        │
 │                                                                  │
-│   SEC EDGAR API  ──►  Raw 10-K Text  ──►  500-word Chunks       │
+│   SEC EDGAR API  ──►  Raw 10-K Text  ──►  500-word Chunks        │
 │                                               │                  │
 │                                               ▼                  │
 │                                    Gemini Embeddings API         │
